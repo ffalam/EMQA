@@ -1,6 +1,6 @@
 # EMQA
 
-This repository contains code and data for running the experiments and reproducing the results of the paper: "[Towards More Equitable Question Answering Systems: How Much More Data Do You Need?](link)(https://arxiv.org/pdf/2105.14115.pdf)".
+This repository contains code and data for running the experiments and reproducing the results of the paper: "[Towards More Equitable Question Answering Systems: How Much More Data Do You Need?]"(link)(https://arxiv.org/pdf/2105.14115.pdf)
 
 # Model
 
